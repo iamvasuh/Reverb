@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_colour"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <ImageView
+        android:layout_width="450dp"
+        android:layout_height="280dp"
+        android:background="@drawable/rma_logo1"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:layout_centerInParent="true"/>
+
+
+</RelativeLayout>
